@@ -9,8 +9,8 @@ The project consists of an application for managing projects and the tasks invol
 
 The application must offer the following functionalities:
 
-- Create, edit, delete and search projects (CRUD)
-- Create, edit, delete and search tasks (CRUD)
+- Create, edit, delete and search projects
+- Create, edit, delete and search tasks
 
 ## **Business rules**
 
