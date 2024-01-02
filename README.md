@@ -35,3 +35,29 @@ On the Edit Task screen, there is a problem loading the data of the selected tas
 
 This prevents the user from being able to view the data of the selected task but the user can still modify the task data.
 
+
+## **Screens**
+
+- Main Sceen with no tasks
+
+  ![image](https://github.com/MateusPerpetuo/Task-Management-App/assets/129229556/676a2fe8-b86e-4a85-83fd-cb01c100057a)
+
+- Main Screen with tasks
+
+  ![image](https://github.com/MateusPerpetuo/Task-Management-App/assets/129229556/c6744e2c-7ed2-4ad9-ba92-e88fd32de23e)
+
+- New Project Screen
+
+  ![image](https://github.com/MateusPerpetuo/Task-Management-App/assets/129229556/98921497-ce03-4389-bf4e-323756f31c84)
+
+- New Task Screen
+
+  ![image](https://github.com/MateusPerpetuo/Task-Management-App/assets/129229556/8e33a7fb-e584-427b-96a7-cd80a1c73e09)
+
+  
+
+
+     
+
+  
+
