@@ -27,14 +27,6 @@ The entities involved in the system are:
 - Project: has name, tasks, creation date and update date
 - Task: has name, description, status, notes, deadline, creation date and update date
 
-### **Known errors**
-
-- Edit Task Screen
-
-On the Edit Task screen, there is a problem loading the data of the selected task. Although the function of updating the data is working correctly, and the project and task ids are being passed from the main screen without errors, it is not possible to fill in the fields of the edit screen with the current information from the database. When trying to do this, the screen displays an error that the project and task ids are null. 
-
-This prevents the user from being able to view the data of the selected task but the user can still modify the task data.
-
 
 ## **Screens**
 
@@ -54,7 +46,15 @@ This prevents the user from being able to view the data of the selected task but
 
   ![image](https://github.com/MateusPerpetuo/Task-Management-App/assets/129229556/8e33a7fb-e584-427b-96a7-cd80a1c73e09)
 
-  
+
+
+  ## **Known errors**
+
+- Edit Task Screen
+
+On the Edit Task screen, there is a problem loading the data of the selected task. Although the function of updating the data is working correctly, and the project and task ids are being passed from the main screen without errors, it is not possible to fill in the fields of the edit screen with the current information from the database. When trying to do this, the screen displays an error that the project and task ids are null. 
+
+This prevents the user from being able to view the data of the selected task but the user can still modify the task data.
 
 
      
